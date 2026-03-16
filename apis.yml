@@ -1,115 +1,21 @@
+aid: infinistream
 name: Infinistream
-description: A comprehensive streaming and media delivery platform providing APIs for content management, live streaming, video processing, and analytics.
-url: https://www.infinistream.io
+description: >-
+  Infinistream provides streaming and media delivery capabilities for
+  organizations looking to manage video content, live streaming, and
+  media processing services.
 type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- streaming
-- video
-- media
-- cdn
-- live streaming
-- vod
-- transcoding
-created: '2024'
-modified: '2024'
-specificationVersion: '0.18'
-apis:
-- name: Infinistream Core API
-  description: Primary API for managing video content, streaming sessions, and user accounts
-  baseURL: https://api.infinistream.io/v1
-  humanURL: https://www.infinistream.io/api
-  image: https://www.infinistream.io/images/api-logo.png
-  tags:
-  - videos
-  - streams
-  - content management
-  properties:
-  - type: Documentation
-    url: https://docs.infinistream.io/api
-  - type: OpenAPI
-    url: https://api.infinistream.io/v1/openapi.json
-  - type: Authentication
-    url: https://docs.infinistream.io/authentication
-  contact:
-  - type: Support
-    url: https://www.infinistream.io/support
-  - type: Email
-    url: mailto:api-support@infinistream.io
-  - type: Twitter
-    url: https://twitter.com/infinistream
-- name: Infinistream Live Streaming API
-  description: Real-time streaming API for creating and managing live broadcasts
-  baseURL: https://live.infinistream.io/v1
-  humanURL: https://www.infinistream.io/live
-  tags:
-  - live streaming
-  - broadcast
-  - rtmp
-  - webrtc
-  properties:
-  - type: Documentation
-    url: https://docs.infinistream.io/live-api
-  - type: OpenAPI
-    url: https://live.infinistream.io/v1/openapi.json
-  - type: Status
-    url: https://status.infinistream.io
-- name: Infinistream Analytics API
-  description: Access streaming analytics, viewer metrics, and engagement data
-  baseURL: https://analytics.infinistream.io/v1
-  humanURL: https://www.infinistream.io/analytics
-  tags:
-  - analytics
-  - metrics
-  - reporting
-  - insights
-  properties:
-  - type: Documentation
-    url: https://docs.infinistream.io/analytics-api
-  - type: OpenAPI
-    url: https://analytics.infinistream.io/v1/openapi.json
-- name: Infinistream Transcoding API
-  description: Video processing and transcoding service for multiple formats and resolutions
-  baseURL: https://transcode.infinistream.io/v1
-  humanURL: https://www.infinistream.io/transcoding
-  tags:
-  - transcoding
-  - video processing
-  - encoding
-  - formats
-  properties:
-  - type: Documentation
-    url: https://docs.infinistream.io/transcoding-api
-  - type: OpenAPI
-    url: https://transcode.infinistream.io/v1/openapi.json
-  - type: Pricing
-    url: https://www.infinistream.io/pricing/transcoding
-common:
-- type: Portal
-  url: https://portal.infinistream.io
-- type: Getting Started
-  url: https://docs.infinistream.io/getting-started
-- type: Authentication
-  url: https://docs.infinistream.io/authentication
-- type: SDKs
-  url: https://docs.infinistream.io/sdks
-- type: Rate Limits
-  url: https://docs.infinistream.io/rate-limits
-- type: Webhook
-  url: https://docs.infinistream.io/webhooks
-- type: Status
-  url: https://status.infinistream.io
-- type: Terms of Service
-  url: https://www.infinistream.io/terms
-- type: Privacy Policy
-  url: https://www.infinistream.io/privacy
-- type: Pricing
-  url: https://www.infinistream.io/pricing
-- type: Blog
-  url: https://blog.infinistream.io
-- type: Contact
-  url: https://www.infinistream.io/contact
+  - Streaming
+  - Video
+  - Media
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/infinistream/refs/heads/main/apis.yml
+created: '2024-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
+apis: []
 maintainers:
-- name: Infinistream API Team
-  email: api-team@infinistream.io
-  url: https://www.infinistream.io/about
-include: []
+  - FN: Kin Lane
+    email: kin@apievangelist.com
