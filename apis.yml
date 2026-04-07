@@ -7,9 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
+  - Media
   - Streaming
   - Video
-  - Media
 url: >-
   https://raw.githubusercontent.com/api-evangelist/infinistream/refs/heads/main/apis.yml
 created: '2024-01-01'
