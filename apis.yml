@@ -6,7 +6,7 @@ description: >-
   pending identification of a verifiable provider with publicly accessible
   developer documentation, OpenAPI specifications, or a working API surface.
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Media
   - Streaming
