@@ -6,6 +6,17 @@ description: >-
   pending identification of a verifiable provider with publicly accessible
   developer documentation, OpenAPI specifications, or a working API surface.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
